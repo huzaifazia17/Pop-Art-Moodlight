@@ -1,0 +1,4 @@
+C:\Users\Eric K\documents\visual studio 2015\Projects\Pop-Art MoodLight\Pop-Art MoodLight\Pop_Art_MoodLightContent\obj\x86\Debug\Pop_Art_MoodLightContent.contentprojResolveAssemblyReference.cache
+E:\Pop-Art MoodLight\Pop-Art MoodLight\Pop_Art_MoodLightContent\obj\x86\Debug\Pop_Art_MoodLightContent.contentprojResolveAssemblyReference.cache
+F:\Pop-Art MoodLight\Pop-Art MoodLight\Pop_Art_MoodLightContent\obj\x86\Debug\Pop_Art_MoodLightContent.contentprojResolveAssemblyReference.cache
+C:\Users\ziaMh\Documents\Grade 12 Computer Science\Pop-Art MoodLight\Pop-Art MoodLight\Pop_Art_MoodLightContent\obj\x86\Debug\Pop_Art_MoodLightContent.contentprojResolveAssemblyReference.cache
